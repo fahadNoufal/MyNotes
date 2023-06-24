@@ -5,7 +5,7 @@ connect the app to the installed_apps in settings.py
 in settings.py
 ```python
 INSTALLED_APPS=[
-	.....,
+	.....
 	'base.apps.BaseConfig'
 	#base here is the name of the app
 ]

@@ -1,4 +1,5 @@
 1. [[GSAP basics]]
 2. [[gsap .context()]]
 3. [[gsap reverse]]
-
+4. [[ScrollTriggers]]
+5. [[MotionPath]]

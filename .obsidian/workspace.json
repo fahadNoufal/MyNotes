@@ -4,81 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b6fe123d7d3708f7",
+        "id": "acb9e811a90b7d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "7e774e3450ad5243",
+            "id": "1408ac058846ce63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my learnings/gsap/GSAP.md",
+                "file": "my learnings/django/Django.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab0bcd36d8cd8a29",
+            "id": "0d68d988b4154667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my learnings/gsap/GSAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0bd59fa3f415fea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my learnings/gsap/GSAP basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "181bdb8d9970303e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my learnings/gsap/GSAP basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a77c1e1162607f9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "my learnings/django rest/ref-Img/Pasted image 20230509210712.png"
-              }
-            }
-          },
-          {
-            "id": "82ae7c9b68323fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my learnings/gsap/GSAP basics.md",
+                "file": "my learnings/django/getting started with django.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my learnings/django rest/ref-Img/Pasted image 20230509210712.png",
+                "file": "my learnings/django/getting started with django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my learnings/django rest/ref-Img/Pasted image 20230509210712.png",
+                "file": "my learnings/django/getting started with django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my learnings/django rest/ref-Img/Pasted image 20230509210712.png"
+                "file": "my learnings/django/getting started with django.md"
               }
             }
           }
@@ -205,38 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41ac653a6bbef528",
+  "active": "0d68d988b4154667",
   "lastOpenFiles": [
-    "my learnings/django rest/ref-Img",
-    "my learnings/django rest/Rest Requests and Responses.md",
-    "my learnings/gsap/reference images/Pasted image 20230514122355.png",
-    "my learnings/gsap/GSAP.md",
-    "my learnings/gsap/GSAP basics.md",
-    "my learnings/gsap/gsap .context().md",
-    "my learnings/my learnings.md",
-    "my learnings/gsap/gsap reverse.md",
-    "my learnings/gsap/Untitled",
-    "my learnings/gsap/Context().md",
-    "my learnings/javaScript/Fetch api.md",
-    "my learnings/django rest/Rest introduction.md",
-    "my learnings/javaScript/Promise ,  async and await.md",
-    "my learnings/django rest/Serializatizer.md",
-    "my learnings/django rest/Model Serializers.md",
     "my learnings/django/Django.md",
-    "my learnings/django/getting started with django.md",
-    "my learnings/django rest/Rest framework.md",
-    "my learnings/django rest/Http Request Methods.md",
     "my learnings/django/create first app.md",
-    "my learnings/django rest/ref-Img/Pasted image 20230509210712.png",
-    "my learnings/django rest/Http Status Respose Codes.md",
-    "my learnings/django rest/python request.md",
-    "my learnings/django rest/Taking in data (POST).md",
-    "my learnings/django rest/model property.md",
-    "my learnings/django/django models.md",
-    "my learnings/django rest",
-    "my learnings/django/django forms.md",
+    "my learnings/django/query models.md",
+    "my learnings/django/getting started with django.md",
+    "my learnings/django/django static files.md",
+    "my learnings/django/django urls.md",
     "my learnings/django/flash messages.md",
+    "my learnings/django/Django models relationships.md",
     "my learnings/django/django ModelForm.md",
+    "my learnings/django/django models.md",
+    "my learnings/django/django forms.md",
+    "my learnings/django rest/model property.md",
+    "my learnings/django/Templates.md",
+    "my learnings/react-router/React Router.md",
+    "ai.md",
+    "project needs.md",
+    "Typography.md",
+    "viewport problem in taskFlow.md",
+    "my learnings/gsap/GSAP.md",
+    "my learnings/react-router/React Router New Approach.md",
+    "my learnings/react-router/React Router Form and Navigate.md",
+    "my learnings/react-router/router parameters.md",
+    "my learnings/react-router/useLocation.md",
+    "my learnings/react-router/Error Element (no fetch data).md",
+    "my learnings/react-router/react router loaders.md",
+    "my learnings/gsap/MotionPath.md",
+    "my learnings/react-router",
+    "my learnings/django rest/ref-Img/Pasted image 20230509210712.png",
+    "my learnings/django rest/ref-Img",
+    "my learnings/gsap/reference images/Pasted image 20230514122355.png",
+    "my learnings/gsap/Untitled",
+    "my learnings/django rest",
     "my learnings/django/refer images/Pasted image 20230505194723.png",
     "my learnings/django/refer images/Pasted image 20230505114001.png",
     "my learnings/django/refer images",

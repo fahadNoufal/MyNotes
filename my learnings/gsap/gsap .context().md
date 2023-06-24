@@ -1,4 +1,4 @@
-A `gsap.context()` offers two key benefits:
+	A `gsap.context()` offers two key benefits:
 
 -   **Collects all GSAP animations and ScrollTriggers** that are created within the supplied function so that you can easily `revert()` or `kill()` **ALL** of them at once. No need to keep track of a bunch of variables, Arrays, etc.  
 
